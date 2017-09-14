@@ -12,7 +12,6 @@ function fun($a)
     	}
 
     }
-    echo "<br/><br/>";
 }
 
 $arr = get_defined_functions();
